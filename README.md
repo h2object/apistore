@@ -6,7 +6,7 @@ baidu api store for golang, 百度APIStore接口Golang实现
 
 ````golang
 
-	import "github.com/h2object/currency"
+	import "github.com/h2object/apistore/currency"
 
 	client := currency.NewClient()
 	// 获取汇率币种类型
