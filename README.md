@@ -27,5 +27,5 @@ baidu api store for golang, 百度APIStore接口Golang实现
 ## 已完成接入(持续接入中)
 
 -	[汇率](http://apistore.baidu.com/apiworks/servicedetail/119.html)
-
+-	[推送](http://push.baidu.com) 接入中...
 
